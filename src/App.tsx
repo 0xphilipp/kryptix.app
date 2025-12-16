@@ -122,7 +122,8 @@ function App() {
               </CardHeader>
               <CardContent>
                 <p className="text-slate-300 text-sm">
-                  Specialized consulting on market and DeFi mechanics, security audits, and dApp development for blockchain ecosystems
+                  Specialized consulting on market and DeFi mechanics, security
+                  audits, and dApp development for blockchain ecosystems
                 </p>
               </CardContent>
             </Card>
