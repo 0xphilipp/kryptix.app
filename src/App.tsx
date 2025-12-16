@@ -32,13 +32,8 @@ function App() {
       {/* Content */}
       <div className="relative z-10">
         {/* Header */}
-        <header className="container mx-auto px-6 py-8">
+        <header className="container mx-auto px-6 py-8 max-w-6xl">
           <div className="flex items-center gap-4">
-            <img
-              src="/kryptix.png"
-              alt="Kryptix Logo"
-              className="h-12 w-auto"
-            />
             <div>
               <h1 className="text-2xl font-bold text-white">Kryptix GmbH</h1>
             </div>
