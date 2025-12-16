@@ -114,16 +114,15 @@ function App() {
                   <Wallet className="h-6 w-6 text-white" />
                 </div>
                 <CardTitle className="text-white text-xl">
-                  Grant Consulting
+                  Grant Projects
                 </CardTitle>
                 <CardDescription className="text-slate-400">
-                  Strategic consulting for blockchain foundations
+                  Expert consulting for blockchain foundations and protocols
                 </CardDescription>
               </CardHeader>
               <CardContent>
                 <p className="text-slate-300 text-sm">
-                  Navigate grant programs and funding opportunities in the
-                  blockchain space
+                  Specialized consulting on market and DeFi mechanics, security audits, and dApp development for blockchain ecosystems
                 </p>
               </CardContent>
             </Card>
